@@ -1,7 +1,7 @@
 # CAPSTONE PROJECT MODULE
 ##  **SUPERMARKET CUSTOMER DATA ANALYSIS**
 
-**Context**
+#### Context
 A Supermarket Company operates in an area, providing a specific of products such as wine, fruit, meat, fish, candy, and gold. Also, providing a high-quality shopping experience for its customers with a choice of places to shop and various campaigns. This supermarket company is trying to increase profitability. In order to achieve this goal, the company collects and analyzes customer data that includes various aspects such as customer status, the amount spent on certain products, participation in promotional campaigns, and other information. This data shows significant differences in customer behavior, where some customers are active in making transactions and contributing greatly to total sales, while other customers tend to be less active. Understanding these differences will create more effective strategies to optimize sales and increase customer loyalty.
 
 #### Stakeholder
