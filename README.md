@@ -19,4 +19,4 @@ This Supermarket Company want to understand their ***customer segmentation*** an
 
 This analysis provides marketing departments with approaches to help them in better allocating marketing resources. By focusing efforts on high-value customers or those who are more likely to respond to a particular promotion, marketing departments can maximize their campaigns' return on investment (ROI).
 
-Tableau : https://public.tableau.com/app/profile/army.parta/viz/capstone_2_army/DA1?publish=yes
+Tableau : https://public.tableau.com/app/profile/army.parta/viz/SupermarketCustomerRFMAnalysis/DA1?publish=yes
